@@ -1,8 +1,9 @@
 # Personal Information
 - EUGENIO MEJIA
 - 210.454.7989
-- www.eugenio-mejia.com
-- https://www.linkedin.com/in/eugenio-mejia/
+- eugenio-mejia.com
+- linkedin.com/in/eugenio-mejia/
+- github.com/egost
 
 
 Electrical Engineering graduate with experience in Startups, Small Businesses and Fortune 500. Focus on lean development of products, business processes, training and automation. Looking for a great team to further develop Business Analyst skills.
