@@ -1,5 +1,4 @@
-# Personal Information
-- EUGENIO MEJIA
+# EUGENIO MEJIA
 - 210.454.7989
 - eugenio-mejia.com
 - linkedin.com/in/eugenio-mejia/
