@@ -49,7 +49,7 @@ OCT 2018 - PRESENT | Orlando, FL
 
 
 ![YHS Logo](http://yeshotelservices.com/wp-content/uploads/2019/03/hdr_logo.png "YHS Logo")
-## [Yes Hotel Services, Inc](http://www.yeshotelservices.com/)
+## [Yes Hotel Services, Inc](http://www.yeshotelservices.com/) - Contracting Services
 _Operations Manager_
 
 JUL 2016 - NOV 2018 | Celebration, FL
@@ -69,8 +69,8 @@ JUL 2016 - NOV 2018 | Celebration, FL
   - gspread
   - tsheets
 
-![TI Logo](https://logoeps.com/wp-content/uploads/2012/06/texas-instruments-logo-vector-01.png "TI Logo")
-## [Texas Instruments](https://www.ti.com) 
+![TI Logo](https://www.logolynx.com/images/logolynx/bc/bc24312b53f7c68ec1af6919bb10ca4c.jpeg "TI Logo")
+## [Texas Instruments](https://www.ti.com) - Semiconductor Manufacturer
 _Precision Applications Engineer_
 
 MAY 2013 - JUL 2016 | Dallas, TX
@@ -137,7 +137,7 @@ Data visualization tool for Amusement Parks
 
 # EDUCATION
 
-![TAMU Logo](https://brandguide.tamu.edu/assets/img/logos/tam-primary-mark-a.png "TAMU Logo")
+![TAMU Logo](http://www.freelogovectors.net/wp-content/uploads/2016/12/tamu_texas_a-m-university-logo.png "TAMU Logo")
 ## Texas A&M University
 
 Electrical Engineering, B.Sc.
