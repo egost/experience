@@ -70,7 +70,7 @@ JUL 2016 - NOV 2018 | Celebration, FL
   - gspread
   - tsheets
 
-![TI Logo](https://www.logolynx.com/images/logolynx/bc/bc24312b53f7c68ec1af6919bb10ca4c.jpeg "TI Logo")
+![TI Logo](https://www.partsit.com/img/manufacturers/texas-instruments.png "TI Logo")
 ## [Texas Instruments](https://www.ti.com) - Semiconductor Manufacturer
 _Precision Applications Engineer_
 
@@ -138,7 +138,7 @@ Data visualization tool for Amusement Parks
 
 # EDUCATION
 
-![TAMU Logo](http://www.freelogovectors.net/wp-content/uploads/2016/12/tamu_texas_a-m-university-logo.png "TAMU Logo")
+![TAMU Logo](https://i.imgur.com/DUzfE9T.png "TAMU Logo")
 ## Texas A&M University
 
 Electrical Engineering, B.Sc.
